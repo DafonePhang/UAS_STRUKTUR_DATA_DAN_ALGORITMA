@@ -1,16 +1,9 @@
 //Mata Kuliah	: Struktur Data & Algoritma
-Kelas	: IT201
-Prodi	: PJJ Informatika
-Nama Mahasiswa	: Dafone Phang
-NIM	: 230401070203
-Dosen	: Alun Sujjada, S.Kom.,M.T
-
-
-
-
-
-
-
+//Kelas	: IT201
+//Prodi	: PJJ Informatika
+//Nama Mahasiswa	: Dafone Phang
+//NIM	: 230401070203
+//Dosen	: Alun Sujjada, S.Kom.,M.T
 
 #include <iostream>
 #include <string>
